@@ -28,6 +28,7 @@ swx-sidebar,
 :root .swx .Me-skyContainer {
     background-color: #E6E6E6;
 }
+
 div.Me-sky {
     display: none;
 }
@@ -41,6 +42,11 @@ div.Me-sky {
 :root .swx .Me-skyContainer:after {
     background-color: transparent;
 }
+
+:root .swx .side .timeline .recents {
+	padding-right: 0px;
+}
+
 :root .swx .themeWhite.side .recent.active,
 :root .swx .themeWhite.side .searchItem.active {
     background-color: #CECECE;
