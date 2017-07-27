@@ -21,7 +21,7 @@ input:placeholder-shown {
 }
 
 .smsInfoHolder {
-    height: 0px !important;
+    display: none !important;
 }
 
 /* UI */
